@@ -1,0 +1,16 @@
+type: edu
+files:
+  - name: src/calculator/Main.java
+    visible: true
+    learner_created: false
+  - name: test/MyFirstProjectTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/380/stages/2266/implement#comment
+status: Unchecked
+feedback:
+  message: "Gradle project isn't imported. <a href=\"reload_gradle\">Reload Gradle\
+    \ project</a>. For more information, see <a href=\"https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/troubleshooting-guide.html#no_tests_have_run\"\
+    >the Troubleshooting guide</a>"
+  time: "Wed, 17 Jul 2024 06:48:40 UTC"
+record: 1
